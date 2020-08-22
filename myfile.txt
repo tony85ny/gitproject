@@ -2,3 +2,6 @@ This is my first line in my git tracked file
 second change
 third change
 forth change
+
+Agenda today:
+1. Collaborating with Github(cloud)
