@@ -22,3 +22,6 @@ Git Collaboration with GitHub.
 -git push
 -git set upstream origin master
 - changes from my pc before Github changes applied on web
+
+abracadabra
+sme more changes from GIthub
