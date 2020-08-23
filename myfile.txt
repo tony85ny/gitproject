@@ -1,7 +1,4 @@
-This is my first line in my git tracked file
-second change
-third change
-forth change
+Git INtroduction:
 
 Agenda today:
 1. Collaborating with Github(cloud)
@@ -20,3 +17,7 @@ git push -u origin
 To push an existing repository from the command line:
 git remote add origin https://github.com/tony85ny/gitproject.git
 git push -u origin master
+
+Git Collaboration with GitHub.
+-git push
+-git set upstream origin master
