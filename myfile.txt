@@ -1,4 +1,4 @@
-Git INtroduction:
+Git Introduction:
 
 Agenda today:
 1. Collaborating with Github(cloud)
@@ -21,6 +21,4 @@ git push -u origin master
 Git Collaboration with GitHub.
 -git push
 -git set upstream origin master
-
-
-- changes from my pc before Github changes applied om web
+- changes from my pc before Github changes applied on web
