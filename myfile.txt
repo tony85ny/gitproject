@@ -24,4 +24,4 @@ Git Collaboration with GitHub.
 - changes from my pc before Github changes applied on web
 
 abracadabra
-sme more changes from GIthub
+some more changes from GIthub
