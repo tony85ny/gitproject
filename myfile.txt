@@ -5,4 +5,18 @@ forth change
 
 Agenda today:
 1. Collaborating with Github(cloud)
-2. Finally she came in.
+my gitproject url
+https://github.com/tony85ny/gitproject.git
+
+To create a new repository on the command line:
+echo "# gitproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tony85ny/gitproject.git
+git push -u origin 
+
+****************************************************************8
+To push an existing repository from the command line:
+git remote add origin https://github.com/tony85ny/gitproject.git
+git push -u origin master
